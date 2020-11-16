@@ -9,6 +9,6 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
-        System.out.println("git test 7");
+        System.out.println("git test 8 in idea");
     }
 }
